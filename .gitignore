@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+
+# Ignore node_modules fold
+node_modules/
+
+
+# Ignore log files
+.log
+
+
+
+# Ignore compiled files
+dist/
